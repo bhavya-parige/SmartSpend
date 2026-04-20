@@ -132,14 +132,6 @@ SmartSpend demonstrates practical frontend engineering skills:
 
 ---
 
-## 👨‍💻 Author
-
-Your Name
-GitHub: `https://github.com/your-username`
-LinkedIn: `https://linkedin.com/in/bhavya-parege`
-
----
-
 ## ⭐ Support
 
 If you like this project, consider giving it a **star** on GitHub!
