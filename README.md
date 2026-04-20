@@ -7,10 +7,10 @@ A modern **React + Redux** expense tracking dashboard that helps users manage sp
 ## 📸 Preview
 
 ### Bar and Pie charts
-<img src="./assets/PieAndBar.png" width="700" />
+<img src="https://raw.githubusercontent.com/bhavya-parige/SmartSpend/main/src/assets/PieAndBar.png" width="700" />
 
 ### Category insights
-<img src="./assets/Insights.png" width="700" />
+<img src="https://raw.githubusercontent.com/bhavya-parige/SmartSpend/main/src/assets/PieAndBar.png" width="700" />
 
 ---
 
